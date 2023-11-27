@@ -1,0 +1,7 @@
+{
+    "name": "wiktor/books",
+    "type": "project",
+    "require": {
+        "tgmpa/tgm-plugin-activation": "^2.6"
+    }
+}
